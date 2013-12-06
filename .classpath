@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="G:/MyEclipse/CCProxy/lib/asterisk-java-1.0.0.CI-20110826.214542-650.jar"/>
+	<classpathentry kind="lib" path="G:/MyEclipse/CCProxy/lib/json-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="G:/Xunlei/apache-mina-2.0.4-bin/apache-mina-2.0.4/lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="G:/Xunlei/apache-mina-2.0.4-bin/apache-mina-2.0.4/lib/commons-logging-1.0.3.jar"/>
+	<classpathentry kind="lib" path="G:/Xunlei/apache-mina-2.0.4-bin/apache-mina-2.0.4/lib/javassist-3.7.ga.jar"/>
+	<classpathentry kind="lib" path="G:/Xunlei/apache-mina-2.0.4-bin/apache-mina-2.0.4/lib/javassist-3.11.0.GA.jar"/>
+	<classpathentry kind="lib" path="G:/Xunlei/apache-mina-2.0.4-bin/apache-mina-2.0.4/lib/jcl-over-slf4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="G:/Xunlei/apache-mina-2.0.4-bin/apache-mina-2.0.4/lib/jzlib-1.0.7.jar"/>
+	<classpathentry kind="lib" path="G:/Xunlei/apache-mina-2.0.4-bin/apache-mina-2.0.4/lib/ognl-3.0.1.jar"/>
+	<classpathentry kind="lib" path="G:/Xunlei/apache-mina-2.0.4-bin/apache-mina-2.0.4/lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="G:/Xunlei/apache-mina-2.0.4-bin/apache-mina-2.0.4/lib/spring-2.5.6.jar"/>
+	<classpathentry kind="lib" path="G:/Xunlei/apache-mina-2.0.4-bin/apache-mina-2.0.4/lib/tomcat-apr-5.5.23.jar"/>
+	<classpathentry kind="lib" path="G:/Xunlei/apache-mina-2.0.4-bin/apache-mina-2.0.4/lib/xbean-spring-3.7.jar"/>
+	<classpathentry kind="lib" path="G:/Xunlei/apache-mina-2.0.4-bin/apache-mina-2.0.4/dist/mina-core-2.0.4.jar"/>
+	<classpathentry kind="lib" path="G:/Xunlei/mysql-connector-java-5.1.17/mysql-connector-java-5.1.17/mysql-connector-java-5.1.17-bin.jar"/>
+	<classpathentry kind="lib" path="G:/MyEclipse/CCProxy/lib/c3p0-0.9.2-pre4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="F:/workspace/proxy/proxy/lib/asterisk-java-1.0.0.CI-20110826.214542-650.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/proxy/proxy/lib/c3p0-0.9.2-pre4.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/proxy/proxy/lib/json-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/proxy/proxy/lib/mchange-commons-java-0.2.2.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/proxy/proxy/lib/mina-core-2.0.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
